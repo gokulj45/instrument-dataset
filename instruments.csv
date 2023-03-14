@@ -1,0 +1,5 @@
+﻿stockcode,name,price,tick,volume,maximumordersize
+AAPL,Apple Inc,150.5,AAPL,10000,1000
+GOOG,Google Inc,2500,GOOG,50000,500
+TSLA,Tesla,900,TSLA,75000,100
+INFY,Infosys,90,INFY,7500,75
